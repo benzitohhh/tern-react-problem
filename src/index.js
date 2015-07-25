@@ -6,7 +6,7 @@ var Hello = React.createClass({
   render: function() {
     return (
       <div>
-        <p>Hello cruel</p>
+        <p>Hello world</p>
       </div>
     );
   }
